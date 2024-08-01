@@ -1,2 +1,5 @@
 # Ignore the Mus DB as it is way too large
 musdb18
+
+# Ignore outputs as well
+outputs/spectrograms_musdb18
