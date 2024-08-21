@@ -1,5 +1,5 @@
-# Ignore the Mus DB as it is way too large
-musdb18
-
-# Ignore outputs as well
-outputs/spectrograms_musdb18
+python/SGM-v2.01-Sal-Guit-Bass-V1.3.sf2
+python/checkpoints
+python/airio
+python/mt3
+python/t5x
